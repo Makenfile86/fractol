@@ -17,3 +17,13 @@ Mandelbrot set zoomed in:
 
 ![mandelbrot set zoomed in:](https://github.com/Makenfile86/fractol/blob/main/mandebrot_zoom.png?raw=true)
 
+Julia set: 
+
+![julia set:](https://github.com/Makenfile86/fractol/blob/main/julia.png?raw=true)
+
+Julia set with a little movement: 
+
+![julia set with movement:](https://github.com/Makenfile86/fractol/blob/main/moving_julia.png?raw=true)
+
+
+
