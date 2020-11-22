@@ -11,3 +11,5 @@ https://en.wikipedia.org/wiki/Fractal
 
 ![mandelbrot set with a menu:](https://github.com/Makenfile86/fractol/blob/main/mandelbrot.png?raw=true)
 
+![mandelbrot set zoomed in:](https://github.com/Makenfile86/fractol/blob/main/mandebrot_zoom.png?raw=true)
+
