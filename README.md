@@ -9,7 +9,11 @@ The mouse wheel should zooms in and out, almost infinitely (within the limits of
 
 https://en.wikipedia.org/wiki/Fractal
 
+Mandelbrot set:
+
 ![mandelbrot set with a menu:](https://github.com/Makenfile86/fractol/blob/main/mandelbrot.png?raw=true)
+
+Mandelbrot set zoomed in:
 
 ![mandelbrot set zoomed in:](https://github.com/Makenfile86/fractol/blob/main/mandebrot_zoom.png?raw=true)
 
